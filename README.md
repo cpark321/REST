@@ -1,5 +1,8 @@
 # transform-rl-tf
 
+# published at AAAI 2020 (New York)
+https://www.aaai.org/Papers/AAAI/2020GB/AAAI-KimJ.10157.pdf
+
 ## Usage
 you can currently train the RL model in
 - one of the `[ppo,ddpg]` model by `--algorithm` argument

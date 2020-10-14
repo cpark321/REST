@@ -1,6 +1,6 @@
 # transform-rl-tf
 
-# published at AAAI 2020 (New York)
+- published at AAAI 2020 (New York)
 https://www.aaai.org/Papers/AAAI/2020GB/AAAI-KimJ.10157.pdf
 
 ## Usage
